@@ -1,0 +1,29 @@
+_repo: Queer-questions-and-ready-replies-b-A-collection-of-four-hundred-questions-in-history-geograp__71466
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oliphant, S. Grant
+    gutenberg_agent_id: '56256'
+    url: http://www.gutenberg.org/2009/agents/56256
+description: ''
+gutenberg_issued: '2023-08-22'
+identifiers:
+  gutenberg: '71466'
+language: en
+pgterms:marc904: https://archive.org/details/queerquestionsre00olip/page/n7/mode/2up
+pgterms:marc905: 20200510182630oliphant
+pgterms:marc906: '1886'
+pgterms:marc907: US
+production_note: Charlene Taylor, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bNew England Publishing Company, $c1886, pubdate 1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Queer questions and ready replies : $b A collection of four hundred questions
+  in history, geography, biography, mythology, philosophy, natural history, science,
+  philology, etc., etc., with their answers : Fourth Edition'
+url: http://www.gutenberg.org/ebooks/71466
