@@ -1,11 +1,16 @@
 _repo: Queer-questions-and-ready-replies-b-A-collection-of-four-hundred-questions-in-history-geograp__71466
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71466-h/images/cover.jpg
 creator:
   author:
     agent_name: Oliphant, S. Grant
     gutenberg_agent_id: '56256'
     url: http://www.gutenberg.org/2009/agents/56256
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71466#Queer-questions-and-ready-replies-b-A-collection-of-four-hundred-questions-in-history-geograp_
 gutenberg_issued: '2023-08-22'
 identifiers:
   gutenberg: '71466'
